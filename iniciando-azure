@@ -1,0 +1,7 @@
+Acesse o portal: Faça login em https://portal.azure.com/.
+Crie um recurso: Clique em "Criar um recurso" e pesquise por "Grupo de recursos".
+Preencha as informações:
+Assinatura: Selecione sua assinatura do Azure.
+Grupo de recursos: Insira um nome único para o grupo.
+Região: Escolha a região onde você deseja criar o grupo.
+Clique em "Criar".
