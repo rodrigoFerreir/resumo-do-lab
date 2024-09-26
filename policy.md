@@ -1,6 +1,6 @@
 # Gerenciando Políticas de Acesso na Azure: Um Guia Completo
 
-    O Azure oferece uma gama de ferramentas e recursos para gerenciar o acesso aos seus recursos de forma segura e eficiente. As políticas do Azure são um mecanismo fundamental para definir e aplicar regras que garantem a conformidade, segurança e governança dos seus ambientes de nuvem.
+O Azure oferece uma gama de ferramentas e recursos para gerenciar o acesso aos seus recursos de forma segura e eficiente. As políticas do Azure são um mecanismo fundamental para definir e aplicar regras que garantem a conformidade, segurança e governança dos seus ambientes de nuvem.
 
 # Por que usar políticas do Azure?
 
